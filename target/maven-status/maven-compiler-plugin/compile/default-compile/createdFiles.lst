@@ -1,9 +1,0 @@
-ch\rohner\asusLed\Application.class
-ch\rohner\asusLed\daos\MovieDao.class
-ch\rohner\asusLed\daos\NeoMovieDaoImpl$1.class
-ch\rohner\asusLed\controllers\MovieController.class
-ch\rohner\asusLed\daos\NeoMovieDaoImpl.class
-ch\rohner\asusLed\models\Movie.class
-ch\rohner\asusLed\daos\MockMovieDaoImpl$1.class
-ch\rohner\asusLed\daos\MockMovieDaoImpl.class
-ch\rohner\asusLed\services\MovieService.class
