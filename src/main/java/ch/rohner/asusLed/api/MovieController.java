@@ -1,4 +1,4 @@
-package ch.rohner.asusLed.controllers;
+package ch.rohner.asusLed.api;
 
 import ch.rohner.asusLed.models.Movie;
 import ch.rohner.asusLed.services.MovieService;
