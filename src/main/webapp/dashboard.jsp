@@ -11,6 +11,7 @@
 <head>
     <title>Asus Led - App Dashboard</title>
     <link rel='stylesheet' href='./webjars/bootstrap/4.3.1/css/bootstrap.min.css'>
+    <meta charset="UTF-8">
 </head>
 <body>
 <div class="container">
