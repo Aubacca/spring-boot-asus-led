@@ -1,6 +1,11 @@
 # spring-boot-asus-led
 Spring boot application for asus led tool
 
+* new banner text
+* Spring boot security
+* back end full stack (with separed mysql on docker)
+* Flyway
+
 ## Start app
 [Spring Bootstrap app](http://localhost:7070/home.jsp)
 
